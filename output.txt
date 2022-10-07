@@ -1,0 +1,80 @@
+
+run:
+Enter a month as an integer: 16
+Input Error: 16 is not a valid month. Please try again.
+Enter a month as an integer: 60
+Input Error: 60 is not a valid month. Please try again.
+Enter a month as an integer: 6
+Enter a year, 2000 or later: 207
+Input Error: 207 is not a valid year. Please try again.
+Enter a year, 2000 or later: 2007
+
+June 1, 2007 was a Friday.
+June 1, 2007 was 2708 after January 1, 2000.
+This included 2 leap days.
+BUILD SUCCESSFUL (total time: 21 seconds)
+
+
+
+run:
+Enter a month as an integer: 3
+Enter a year, 2000 or later: 2100
+
+March 1, 2100 was a Monday.
+March 1, 2100 was 36584 after January 1, 2000.
+This included 25 leap days.
+BUILD SUCCESSFUL (total time: 4 seconds)
+
+
+
+run:
+Enter a month as an integer: 5
+Enter a year, 2000 or later: 20
+Input Error: 20 is not a valid year. Please try again.
+Enter a year, 2000 or later: 2011
+
+May 1, 2011 was a Sunday.
+May 1, 2011 was 4138 after January 1, 2000.
+This included 3 leap days.
+BUILD SUCCESSFUL (total time: 10 seconds)
+
+
+
+run:
+Enter a month as an integer: 0
+Input Error: 0 is not a valid month. Please try again.
+Enter a month as an integer: 2
+Enter a year, 2000 or later: 2016
+
+February 1, 2016 was a Monday.
+February 1, 2016 was 5875 after January 1, 2000.
+This included 4 leap days.
+BUILD SUCCESSFUL (total time: 7 seconds)
+
+
+
+run:
+Enter a month as an integer: 2
+Enter a year, 2000 or later: 2100
+
+February 1, 2100 was a Monday.
+February 1, 2100 was 36556 after January 1, 2000.
+This included 25 leap days.
+BUILD SUCCESSFUL (total time: 4 seconds)
+
+
+
+run:
+Enter a month as an integer: 30
+Input Error: 30 is not a valid month. Please try again.
+Enter a month as an integer: 13
+Input Error: 13 is not a valid month. Please try again.
+Enter a month as an integer: 3
+Enter a year, 2000 or later: 256
+Input Error: 256 is not a valid year. Please try again.
+Enter a year, 2000 or later: 2056
+
+March 1, 2056 was a Wednesday.
+March 1, 2056 was 20514 after January 1, 2000.
+This included 15 leap days.
+BUILD SUCCESSFUL (total time: 15 seconds)
